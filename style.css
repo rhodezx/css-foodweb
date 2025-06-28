@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+
+#myElement {
+    background-color: #fce8f0;
+}
+ 
+h1 {
+    font-family: "Young Serif", serif;
+}
+p {
+    font-family: Arial, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  color: #333;
+  max-width: 20px auto;
+  padding: 0 15px;
+  background-color: #f4f4f4;
+}
+h2 {
+  color: #8B4513;
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  font-family: "georgia", serif;
+}
+ol {
+  list-style-type: decimal;
+  padding-left: 25px;
+}
+li {
+  margin-bottom: 15px;
+}
+li strong {
+color: #650808;
+}
+strong {
+  font-weight: bold;
+}
+.preparation-box {
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+.preparation-box ul li {
+  margin-bottom: 5px;
+}
+
+.preparation-box ul {
+list-style: disc;
+margin-left: 20px;
+padding: 0;
+}
+
+.Preparation-time-heading {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #880e4f;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.containerfornutrient {
+width: 100%;
+max-width: 400px;
+margin: 0 auto;
+background-color: #fff;
+padding: 30px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+  table{
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td{
+    padding: 10px 0;
+    text-align: left;
+  }
+
+  tr:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+  }
+td:last-child {
+   text-align: left;
+   font-weight: bold;
+}
+  th {
+    color: #333;
+    font-weight: normal;
+  }
+
+  td {
+    color: #8B4513;
+    border-bottom: 1px solid #eee;
+  }
