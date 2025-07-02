@@ -42,8 +42,9 @@ strong {
 }
 .preparation-box {
   padding: 20px;
-  border-radius: 8px;
+  border-radius: 10px;
   margin-bottom: 30px;
+  margin-top: 8px;
 }
 .preparation-box ul li {
   margin-bottom: 5px;
@@ -55,13 +56,12 @@ margin-left: 20px;
 padding: 0;
 }
 
-.Preparation-time-heading {
+.Preparation-time-container {
     font-family: Arial, Helvetica, sans-serif;
-    color: #880e4f;
-    font-size: 1.5em;
-    font-weight: bold;
-    margin-top: 0;
-    margin-bottom: 5px;
+    background-color: #4f1025;
+    width: fit-content;
+    border-radius: 10px;
+
 }
 .containerfornutrient {
 width: 100%;
